@@ -1,6 +1,6 @@
 # 🎬 Entertainment Website
 
-A modern, responsive entertainment website built with HTML, CSS, and JavaScript. This project showcases movies, TV shows, and entertainment news with a clean and user-friendly interface.
+A modern, responsive entertainment website built with HTML, and CSS. This project showcases movies, TV shows, and entertainment news with a clean and user-friendly interface.
 
 ## 🚀 Live Demo
 
